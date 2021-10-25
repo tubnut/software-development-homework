@@ -12,6 +12,10 @@ int main(){
     while(input != -99){
         cin >> input;
 
+        if (input == -99){
+            break;
+        }
+
         if (input > largest){
             largest = input;
         }
