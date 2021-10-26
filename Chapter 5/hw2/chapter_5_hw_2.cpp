@@ -15,7 +15,7 @@ int main(){
     }
 
     for(int year_num = 1; year_num <= years; year_num++){
-        cout << "Year "<< year_num << endl;
+        cout << endl << "Year "<< year_num << endl;
         
         for(int c = 1; c <= 12; c++){
             cout << "Number of inches for month " << setw(2) << c << ": ";
