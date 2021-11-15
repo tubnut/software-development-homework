@@ -4,7 +4,9 @@
         "fstream": "cpp",
         "string": "cpp",
         "iomanip": "cpp",
-        "ostream": "cpp"
+        "ostream": "cpp",
+        "iosfwd": "cpp",
+        "vector": "cpp"
     },
     "C_Cpp.errorSquiggles": "Enabled"
 }
